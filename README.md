@@ -62,9 +62,7 @@
 
 #### Featured Article
 
-- **[从0.5到1：如何在AI时代快速搭建自己的LLM理解](https://tobychain.github.io/posts/from-05-to-1-llm-sharing/)** · 2026-07-10
-  - 本文围绕三个问题展开：LLM 从哪来、当下的大模型长什么样、以及普通学习者如何建立一套持续更新的 AI 学习工作流。
-  - [Read on Blog](https://tobychain.github.io/posts/from-05-to-1-llm-sharing/) · [Datawhale WeChat](https://mp.weixin.qq.com/s/HW4tlQfqXvlsDb8PDNd_aA)
+- **[最新！万字综述 AI Agent 从记忆到自我进化！](https://mp.weixin.qq.com/s/HW4tlQfqXvlsDb8PDNd_aA)** · Datawhale
 
 #### Publications
 

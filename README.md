@@ -148,8 +148,9 @@
 
 ### ✍️ 最新博文
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [从0.5到1：如何在AI时代快速搭建自己的LLM理解](https://tobychain.github.io/posts/from-05-to-1-llm-sharing/)
+&lt;div type=&quot;text/html&quot; src=&quot;https://tobychain.github.io/posts/from-05-to-1-llm-sharing/&quot;/&gt;- [Welcome to Bingtao Guan&#39;s Blog](https://tobychain.github.io/posts/welcome/)
+&lt;div type=&quot;text/html&quot; src=&quot;https://tobychain.github.io/posts/welcome/&quot;/&gt;<!-- BLOG-POST-LIST:END -->
 
 > 由 [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) 自动从 [滩滩妙妙屋](https://tobychain.github.io) 的 RSS 拉取更新。
 

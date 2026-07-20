@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- Cool GIF Header -->
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="300" alt="Welcome" />
+
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F05032&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+there+%F0%9F%91%8B;Master+%40+ZJU;AI+%C2%B7+Agent+%C2%B7+LLM+Enthusiast" alt="Typing SVG" />
@@ -80,7 +83,75 @@
 
 📋 [Google Scholar Profile](https://scholar.google.com/citations?user=QFG-e9wAAAAJ&hl=en)
 
-> _Publications list will be populated here — see Google Scholar for the full list._
+<table>
+<tr>
+<td>
+
+1. **[A clinician aligned vision language framework for stepwise interpretation in fundus fluorescein angiography](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QFG-e9wAAAAJ&citation_for_view=QFG-e9wAAAAJ:u5HHmVD_uO8C)**
+
+*npj Digital Medicine · 2026*
+
+</td>
+</tr>
+<tr>
+<td>
+
+2. **[LLM-SDaT: A knowledge-informed LLM framework for syndrome differentiation in TCM](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QFG-e9wAAAAJ&citation_for_view=QFG-e9wAAAAJ:d1gkVwhDpl0C)**
+
+*Neural Networks · 2026*
+
+</td>
+</tr>
+<tr>
+<td>
+
+3. **[OBUSight: Clinically Aligned Generative AI for Ophthalmic Ultrasound Interpretation and Diagnosis](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QFG-e9wAAAAJ&citation_for_view=QFG-e9wAAAAJ:u-x6o8ySG0sC)**
+
+*Advanced Science · 2026*
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 Contribution Graph
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%" />
+
+</div>
+
+---
+
+### 🗓️ Isometric Calendar
+
+<div align="center">
+
+<img src="./metrics.plugin.isocalendar.svg" alt="Isometric Calendar" />
+
+</div>
+
+---
+
+### ⭐ Recently Starred Repos
+
+<div align="center">
+
+<img src="./metrics.plugin.stars.svg" alt="Recently Starred" />
+
+</div>
+
+---
+
+### 💬 Dev Quote
+
+<div align="center">
+
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/PiyushSuthar/github-readme-quotes)
+
+</div>
 
 ---
 

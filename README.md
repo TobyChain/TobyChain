@@ -58,7 +58,8 @@
 
 #### Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- **[从0.5到1：如何在AI时代快速搭建自己的LLM理解](https://tobychain.github.io/posts/from-05-to-1-llm-sharing/)** · 2026-07-10<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- **[从0.5到1：如何在AI时代快速搭建自己的LLM理解](https://tobychain.github.io/posts/from-05-to-1-llm-sharing/)** · 2026-07-10<!-- BLOG-POST-LIST:END -->
 
 #### Featured Article
 

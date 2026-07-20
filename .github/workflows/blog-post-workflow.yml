@@ -1,0 +1,26 @@
+name: Update Blog Posts
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-blog-posts:
+    name: Update latest blog posts in README
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull latest blog posts into README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://tobychain.github.io/feed.xml"
+          max_post_count: "5"
+          template: "- [$title]($url)$newline$description"
+          date_format: "yyyy-mm-dd"
+          readme_path: "README.md"

@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Cool GIF Header -->
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="300" alt="Welcome" />
-
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F05032&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+there+%F0%9F%91%8B;Master+%40+ZJU;AI+%C2%B7+Agent+%C2%B7+LLM+Enthusiast" alt="Typing SVG" />
@@ -61,57 +58,21 @@
 
 #### Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [从0.5到1：如何在AI时代快速搭建自己的LLM理解](https://tobychain.github.io/posts/from-05-to-1-llm-sharing/) · 2026-07-10<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- **[从0.5到1：如何在AI时代快速搭建自己的LLM理解](https://tobychain.github.io/posts/from-05-to-1-llm-sharing/)** · 2026-07-10<!-- BLOG-POST-LIST:END -->
 
 #### Featured Article
 
-<table>
-<tr>
-<td>
+- **[从0.5到1：如何在AI时代快速搭建自己的LLM理解](https://tobychain.github.io/posts/from-05-to-1-llm-sharing/)** · 2026-07-10
+  - 本文围绕三个问题展开：LLM 从哪来、当下的大模型长什么样、以及普通学习者如何建立一套持续更新的 AI 学习工作流。
+  - [Read on Blog](https://tobychain.github.io/posts/from-05-to-1-llm-sharing/) · [Datawhale WeChat](https://mp.weixin.qq.com/s/HW4tlQfqXvlsDb8PDNd_aA)
 
-📄 **[从0.5到1：如何在AI时代快速搭建自己的LLM理解](https://tobychain.github.io/posts/from-05-to-1-llm-sharing/)**
-
-> 本文围绕三个问题展开：LLM 从哪来、当下的大模型长什么样、以及普通学习者如何建立一套持续更新的 AI 学习工作流。
-
-🔗 [Read on Blog](https://tobychain.github.io/posts/from-05-to-1-llm-sharing/) · 📢 [Datawhale WeChat](https://mp.weixin.qq.com/s/HW4tlQfqXvlsDb8PDNd_aA)
-
-</td>
-</tr>
-</table>
-
-#### Publications (Google Scholar)
+#### Publications
 
 📋 [Google Scholar Profile](https://scholar.google.com/citations?user=QFG-e9wAAAAJ&hl=en)
 
-<table>
-<tr>
-<td>
-
-1. **[A clinician aligned vision language framework for stepwise interpretation in fundus fluorescein angiography](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QFG-e9wAAAAJ&citation_for_view=QFG-e9wAAAAJ:u5HHmVD_uO8C)**
-
-*npj Digital Medicine · 2026*
-
-</td>
-</tr>
-<tr>
-<td>
-
-2. **[LLM-SDaT: A knowledge-informed LLM framework for syndrome differentiation in TCM](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QFG-e9wAAAAJ&citation_for_view=QFG-e9wAAAAJ:d1gkVwhDpl0C)**
-
-*Neural Networks · 2026*
-
-</td>
-</tr>
-<tr>
-<td>
-
-3. **[OBUSight: Clinically Aligned Generative AI for Ophthalmic Ultrasound Interpretation and Diagnosis](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QFG-e9wAAAAJ&citation_for_view=QFG-e9wAAAAJ:u-x6o8ySG0sC)**
-
-*Advanced Science · 2026*
-
-</td>
-</tr>
-</table>
+- **[A clinician aligned vision language framework for stepwise interpretation in fundus fluorescein angiography](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QFG-e9wAAAAJ&citation_for_view=QFG-e9wAAAAJ:u5HHmVD_uO8C)** · *npj Digital Medicine · 2026*
+- **[LLM-SDaT: A knowledge-informed LLM framework for syndrome differentiation in TCM](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QFG-e9wAAAAJ&citation_for_view=QFG-e9wAAAAJ:d1gkVwhDpl0C)** · *Neural Networks · 2026*
+- **[OBUSight: Clinically Aligned Generative AI for Ophthalmic Ultrasound Interpretation and Diagnosis](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QFG-e9wAAAAJ&citation_for_view=QFG-e9wAAAAJ:u-x6o8ySG0sC)** · *Advanced Science · 2026*
 
 ---
 
@@ -120,16 +81,6 @@
 <div align="center">
 
 <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%" />
-
-</div>
-
----
-
-### 🗓️ Isometric Calendar
-
-<div align="center">
-
-<img src="./metrics.plugin.isocalendar.svg" alt="Isometric Calendar" />
 
 </div>
 
@@ -150,16 +101,6 @@
 <div align="center">
 
 [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/PiyushSuthar/github-readme-quotes)
-
-</div>
-
----
-
-### 📈 Star History
-
-<div align="center">
-
-[![Star History Chart](https://api.star-history.com/svg?repos=TobyChain/TCMSDaT&type=Date)](https://star-history.com/#TobyChain/TCMSDaT&Date)
 
 </div>
 

@@ -21,6 +21,6 @@ jobs:
         with:
           feed_list: "https://tobychain.github.io/feed.xml"
           max_post_count: "5"
-          template: '- [$title]($url) · $date'
+          template: '- **[$title]($url)** · $date'
           date_format: "yyyy-mm-dd"
           readme_path: "README.md"

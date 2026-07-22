@@ -26,10 +26,11 @@ jobs:
                   nodes {
                     ... on Repository {
                       name
+                      nameWithOwner
                       description
                       url
-                      stargazerCount
-                      primaryLanguage { name }
+                      primaryLanguage { name color }
+                      repositoryTopics(first: 4) { nodes { topic { name } } }
                     }
                   }
                 }
@@ -37,28 +38,48 @@ jobs:
             }' > /tmp/pinned.json
 
           python3 << 'PYEOF'
-          import json, re
+          import json, re, html
+          from urllib.parse import quote
 
           with open('/tmp/pinned.json') as f:
               repos = json.load(f)['data']['user']['pinnedItems']['nodes']
 
+          def lang_badge(name, color):
+              c = (color or 'grey').lstrip('#')
+              return (f'<img src="https://img.shields.io/badge/{quote(name, safe="")}-{c}'
+                      f'?style=flat-square" alt="{html.escape(name)}" />')
+
           def card(r):
-              lang = (r.get('primaryLanguage') or {}).get('name')
-              meta = ' · '.join(x for x in [f"⭐ {r['stargazerCount']}", lang] if x)
-              desc = r.get('description') or ''
-              return (
-                  '<td width="50%">\n\n'
-                  f'<h3 align="center"><a href="{r["url"]}">{r["name"]}</a></h3>\n'
-                  f'<p align="center"><strong>{meta}</strong></p>\n'
-                  f'<p align="center">{desc}</p>\n\n'
-                  '</td>'
-              )
+              owner_repo = r['nameWithOwner']
+              desc = html.escape(r.get('description') or '')
+              lang = r.get('primaryLanguage') or {}
+              topics = [t['topic']['name'] for t in (r.get('repositoryTopics') or {}).get('nodes', [])]
+
+              stars = (f'<a href="{r["url"]}/stargazers">'
+                       f'<img src="https://img.shields.io/github/stars/{owner_repo}?style=social" alt="stars" /></a>')
+              badges = [stars]
+              if lang.get('name'):
+                  badges.append(lang_badge(lang['name'], lang.get('color')))
+
+              lines = ['<td width="50%">', '']
+              lines.append(f'<h3 align="center"><a href="{r["url"]}">{html.escape(r["name"])}</a></h3>')
+              if desc:
+                  lines.append(f'<p align="center">{desc}</p>')
+              lines.append('<p align="center">')
+              lines.append('\n'.join(f'  {b}' for b in badges))
+              lines.append('</p>')
+              if topics:
+                  tb = ' '.join(
+                      f'<img src="https://img.shields.io/badge/{quote("#" + t, safe="")}-informational'
+                      f'?style=flat-square" alt="{html.escape(t)}" />' for t in topics)
+                  lines.append(f'<p align="center">{tb}</p>')
+              lines += ['', '</td>']
+              return '\n'.join(lines)
 
           cards = [card(r) for r in repos]
           if len(cards) % 2:
               cards.append('<td width="50%"></td>')
-          rows = ['<tr>\n' + '\n'.join(cards[i:i+2]) + '\n</tr>'
-                  for i in range(0, len(cards), 2)]
+          rows = ['<tr>\n' + '\n'.join(cards[i:i+2]) + '\n</tr>' for i in range(0, len(cards), 2)]
           section = '<table>\n' + '\n'.join(rows) + '\n</table>'
 
           with open('README.md') as f:

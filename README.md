@@ -33,15 +33,21 @@
 <td width="50%">
 
 <h3 align="center"><a href="https://github.com/TobyChain/TCMSDaT">TCMSDaT</a></h3>
-<p align="center"><strong>⭐ 4 · Python</strong></p>
 <p align="center">LLM-based</p>
+<p align="center">
+  <a href="https://github.com/TobyChain/TCMSDaT/stargazers"><img src="https://img.shields.io/github/stars/TobyChain/TCMSDaT?style=social" alt="stars" /></a>
+  <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square" alt="Python" />
+</p>
 
 </td>
 <td width="50%">
 
 <h3 align="center"><a href="https://github.com/TobyChain/noteone">noteone</a></h3>
-<p align="center"><strong>⭐ 0 · TypeScript</strong></p>
 <p align="center">顺手记一条</p>
+<p align="center">
+  <a href="https://github.com/TobyChain/noteone/stargazers"><img src="https://img.shields.io/github/stars/TobyChain/noteone?style=social" alt="stars" /></a>
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square" alt="TypeScript" />
+</p>
 
 </td>
 </tr>

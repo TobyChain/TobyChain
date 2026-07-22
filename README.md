@@ -27,30 +27,26 @@
 
 ### 🔥 Featured Projects
 
+<!-- PINNED-REPOS:START -->
 <table>
 <tr>
 <td width="50%">
 
 <h3 align="center"><a href="https://github.com/TobyChain/TCMSDaT">TCMSDaT</a></h3>
-<p align="center"><strong>⭐ 4 · Python · LLM-based</strong></p>
-<p align="center">LLM-based project — the most starred repo.</p>
-<p align="center">
-<a href="https://github.com/TobyChain/TCMSDaT"><img src="https://img.shields.io/github/stars/TobyChain/TCMSDaT?style=social" alt="stars" /></a>
-</p>
+<p align="center"><strong>⭐ 4 · Python</strong></p>
+<p align="center">LLM-based</p>
 
 </td>
 <td width="50%">
 
-<h3 align="center"><a href="https://github.com/TobyChain/TobyChain.github.io">Beny's magic house</a></h3>
-<p align="center"><strong>HTML · Tech Blog</strong></p>
-<p align="center">Personal tech blog — notes on AI, Agents, and frontier computing.</p>
-<p align="center">
-<a href="https://tobychain.github.io"><img src="https://img.shields.io/badge/Visit-Beny%27s%20magic%20house-FF6B35?style=flat-square" alt="blog" /></a>
-</p>
+<h3 align="center"><a href="https://github.com/TobyChain/noteone">noteone</a></h3>
+<p align="center"><strong>⭐ 0 · TypeScript</strong></p>
+<p align="center">顺手记一条</p>
 
 </td>
 </tr>
 </table>
+<!-- PINNED-REPOS:END -->
 
 ---
 

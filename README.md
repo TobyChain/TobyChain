@@ -29,32 +29,32 @@
 
 <!-- PINNED-REPOS:START -->
 <div style="overflow-x: auto;">
-<table style="width: 100%;">
+<table style="width: 100%; table-layout: auto;">
 <tr>
-<td width="33%" style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; text-align: center; min-width: 260px;">
+<td style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; text-align: center;">
 
 <h3 align="center"><a href="https://github.com/TobyChain/noteone">noteone</a></h3>
-<p align="center" style="color: #8b949e;">AI 知识管理 · 新知日报</p>
+<p align="center" style="color: #8b949e; white-space: nowrap;">AI 知识管理 · 新知日报</p>
 <p align="center">
   <a href="https://github.com/TobyChain/noteone/stargazers"><img src="https://img.shields.io/github/stars/TobyChain/noteone?style=social" alt="stars" /></a>
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square" alt="TypeScript" />
 </p>
 
 </td>
-<td width="33%" style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; text-align: center; min-width: 260px;">
+<td style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; text-align: center;">
 
 <h3 align="center"><a href="https://github.com/TobyChain/bellone">bellone</a></h3>
-<p align="center" style="color: #8b949e;">壹铃 · AI 时代的健康管家</p>
+<p align="center" style="color: #8b949e; white-space: nowrap;">壹铃 · AI 时代的健康管家</p>
 <p align="center">
   <a href="https://github.com/TobyChain/bellone/stargazers"><img src="https://img.shields.io/github/stars/TobyChain/bellone?style=social" alt="stars" /></a>
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square" alt="TypeScript" />
 </p>
 
 </td>
-<td width="33%" style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; text-align: center; min-width: 260px;">
+<td style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; text-align: center;">
 
 <h3 align="center"><a href="https://github.com/TobyChain/TCMSDaT">TCMSDaT</a></h3>
-<p align="center" style="color: #8b949e;">LLM-based TCM</p>
+<p align="center" style="color: #8b949e; white-space: nowrap;">LLM-based TCM</p>
 <p align="center">
   <a href="https://github.com/TobyChain/TCMSDaT/stargazers"><img src="https://img.shields.io/github/stars/TobyChain/TCMSDaT?style=social" alt="stars" /></a>
   <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square" alt="Python" />

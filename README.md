@@ -30,23 +30,33 @@
 <!-- PINNED-REPOS:START -->
 <table>
 <tr>
-<td width="50%">
-
-<h3 align="center"><a href="https://github.com/TobyChain/TCMSDaT">TCMSDaT</a></h3>
-<p align="center">LLM-based</p>
-<p align="center">
-  <a href="https://github.com/TobyChain/TCMSDaT/stargazers"><img src="https://img.shields.io/github/stars/TobyChain/TCMSDaT?style=social" alt="stars" /></a>
-  <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square" alt="Python" />
-</p>
-
-</td>
-<td width="50%">
+<td width="33%">
 
 <h3 align="center"><a href="https://github.com/TobyChain/noteone">noteone</a></h3>
-<p align="center">顺手记一条</p>
+<p align="center">AI 知识管理 · 新知日报</p>
 <p align="center">
   <a href="https://github.com/TobyChain/noteone/stargazers"><img src="https://img.shields.io/github/stars/TobyChain/noteone?style=social" alt="stars" /></a>
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square" alt="TypeScript" />
+</p>
+
+</td>
+<td width="33%">
+
+<h3 align="center"><a href="https://github.com/TobyChain/bellone">bellone</a></h3>
+<p align="center">壹铃 · AI 时代的健康管家</p>
+<p align="center">
+  <a href="https://github.com/TobyChain/bellone/stargazers"><img src="https://img.shields.io/github/stars/TobyChain/bellone?style=social" alt="stars" /></a>
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square" alt="TypeScript" />
+</p>
+
+</td>
+<td width="33%">
+
+<h3 align="center"><a href="https://github.com/TobyChain/TCMSDaT">TCMSDaT</a></h3>
+<p align="center">LLM-based TCM</p>
+<p align="center">
+  <a href="https://github.com/TobyChain/TCMSDaT/stargazers"><img src="https://img.shields.io/github/stars/TobyChain/TCMSDaT?style=social" alt="stars" /></a>
+  <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square" alt="Python" />
 </p>
 
 </td>
@@ -109,6 +119,6 @@
 
 <div align="center">
 
-<sub>Built with ❤️ · Last updated: 2026-07-20</sub>
+<sub>Built with ❤️ · Last updated: 2026-07-31</sub>
 
 </div>

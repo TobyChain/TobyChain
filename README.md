@@ -28,40 +28,38 @@
 ### 🔥 Featured Projects
 
 <!-- PINNED-REPOS:START -->
-<table>
-<tr>
-<td width="33%">
+<div style="overflow-x: auto; padding-bottom: 8px;">
+<div style="display: flex; gap: 16px; min-width: max-content;">
 
+<div style="flex: 1 1 280px; min-width: 260px; border: 1px solid #30363d; border-radius: 10px; padding: 16px; text-align: center;">
 <h3 align="center"><a href="https://github.com/TobyChain/noteone">noteone</a></h3>
-<p align="center">AI 知识管理 · 新知日报</p>
+<p align="center" style="color: #8b949e;">AI 知识管理 · 新知日报</p>
 <p align="center">
   <a href="https://github.com/TobyChain/noteone/stargazers"><img src="https://img.shields.io/github/stars/TobyChain/noteone?style=social" alt="stars" /></a>
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square" alt="TypeScript" />
 </p>
+</div>
 
-</td>
-<td width="33%">
-
+<div style="flex: 1 1 280px; min-width: 260px; border: 1px solid #30363d; border-radius: 10px; padding: 16px; text-align: center;">
 <h3 align="center"><a href="https://github.com/TobyChain/bellone">bellone</a></h3>
-<p align="center">壹铃 · AI 时代的健康管家</p>
+<p align="center" style="color: #8b949e;">壹铃 · AI 时代的健康管家</p>
 <p align="center">
   <a href="https://github.com/TobyChain/bellone/stargazers"><img src="https://img.shields.io/github/stars/TobyChain/bellone?style=social" alt="stars" /></a>
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square" alt="TypeScript" />
 </p>
+</div>
 
-</td>
-<td width="33%">
-
+<div style="flex: 1 1 280px; min-width: 260px; border: 1px solid #30363d; border-radius: 10px; padding: 16px; text-align: center;">
 <h3 align="center"><a href="https://github.com/TobyChain/TCMSDaT">TCMSDaT</a></h3>
-<p align="center">LLM-based TCM</p>
+<p align="center" style="color: #8b949e;">LLM-based TCM</p>
 <p align="center">
   <a href="https://github.com/TobyChain/TCMSDaT/stargazers"><img src="https://img.shields.io/github/stars/TobyChain/TCMSDaT?style=social" alt="stars" /></a>
   <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square" alt="Python" />
 </p>
+</div>
 
-</td>
-</tr>
-</table>
+</div>
+</div>
 <!-- PINNED-REPOS:END -->
 
 ---

@@ -30,7 +30,7 @@
 <!-- PINNED-REPOS:START -->
 <table>
 <tr>
-<td width="25.0%">
+<td width="33.3%">
 
 <h3 align="center"><a href="https://github.com/TobyChain/TCMSDaT">TCMSDaT</a></h3>
 <p align="center">LLM-based</p>
@@ -40,7 +40,7 @@
 </p>
 
 </td>
-<td width="25.0%">
+<td width="33.3%">
 
 <h3 align="center"><a href="https://github.com/TobyChain/noteone">noteone</a></h3>
 <p align="center">顺手记一条</p>
@@ -50,23 +50,13 @@
 </p>
 
 </td>
-<td width="25.0%">
+<td width="33.3%">
 
 <h3 align="center"><a href="https://github.com/TobyChain/bellone">bellone</a></h3>
 <p align="center">壹铃，AI时代的健康管家</p>
 <p align="center">
   <a href="https://github.com/TobyChain/bellone/stargazers"><img src="https://img.shields.io/github/stars/TobyChain/bellone?style=social" alt="stars" /></a>
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square" alt="TypeScript" />
-</p>
-
-</td>
-<td width="25.0%">
-
-<h3 align="center"><a href="https://github.com/TobyChain/learn-art">learn-art</a></h3>
-<p align="center">学习的艺术，存储我个人的学习研究报告</p>
-<p align="center">
-  <a href="https://github.com/TobyChain/learn-art/stargazers"><img src="https://img.shields.io/github/stars/TobyChain/learn-art?style=social" alt="stars" /></a>
-  <img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square" alt="HTML" />
 </p>
 
 </td>

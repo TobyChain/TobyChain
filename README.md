@@ -30,7 +30,7 @@
 <!-- PINNED-REPOS:START -->
 <table>
 <tr>
-<td width="50%">
+<td width="25.0%">
 
 <h3 align="center"><a href="https://github.com/TobyChain/TCMSDaT">TCMSDaT</a></h3>
 <p align="center">LLM-based</p>
@@ -40,7 +40,7 @@
 </p>
 
 </td>
-<td width="50%">
+<td width="25.0%">
 
 <h3 align="center"><a href="https://github.com/TobyChain/noteone">noteone</a></h3>
 <p align="center">顺手记一条</p>
@@ -50,9 +50,7 @@
 </p>
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="25.0%">
 
 <h3 align="center"><a href="https://github.com/TobyChain/bellone">bellone</a></h3>
 <p align="center">壹铃，AI时代的健康管家</p>
@@ -62,7 +60,7 @@
 </p>
 
 </td>
-<td width="50%">
+<td width="25.0%">
 
 <h3 align="center"><a href="https://github.com/TobyChain/learn-art">learn-art</a></h3>
 <p align="center">学习的艺术，存储我个人的学习研究报告</p>

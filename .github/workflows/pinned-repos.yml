@@ -49,7 +49,7 @@ jobs:
               return (f'<img src="https://img.shields.io/badge/{quote(name, safe="")}-{c}'
                       f'?style=flat-square" alt="{html.escape(name)}" />')
 
-          def card(r):
+          def card(r, width):
               owner_repo = r['nameWithOwner']
               desc = html.escape(r.get('description') or '')
               lang = r.get('primaryLanguage') or {}
@@ -61,7 +61,7 @@ jobs:
               if lang.get('name'):
                   badges.append(lang_badge(lang['name'], lang.get('color')))
 
-              lines = ['<td width="50%">', '']
+              lines = [f'<td width="{width}%">', '']
               lines.append(f'<h3 align="center"><a href="{r["url"]}">{html.escape(r["name"])}</a></h3>')
               if desc:
                   lines.append(f'<p align="center">{desc}</p>')
@@ -76,11 +76,9 @@ jobs:
               lines += ['', '</td>']
               return '\n'.join(lines)
 
-          cards = [card(r) for r in repos]
-          if len(cards) % 2:
-              cards.append('<td width="50%"></td>')
-          rows = ['<tr>\n' + '\n'.join(cards[i:i+2]) + '\n</tr>' for i in range(0, len(cards), 2)]
-          section = '<table>\n' + '\n'.join(rows) + '\n</table>'
+          width = round(100 / len(repos), 1) if repos else 100
+          cards = [card(r, width) for r in repos]
+          section = '<table>\n<tr>\n' + '\n'.join(cards) + '\n</tr>\n</table>'
 
           with open('README.md') as f:
               readme = f.read()

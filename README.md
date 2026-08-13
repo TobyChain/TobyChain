@@ -43,7 +43,7 @@
 <td width="33.3%">
 
 <h3 align="center"><a href="https://github.com/TobyChain/noteone">noteone</a></h3>
-<p align="center">顺手记一条</p>
+<p align="center">壹识，以AI为内核的个人知识系统</p>
 <p align="center">
   <a href="https://github.com/TobyChain/noteone/stargazers"><img src="https://img.shields.io/github/stars/TobyChain/noteone?style=social" alt="stars" /></a>
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square" alt="TypeScript" />

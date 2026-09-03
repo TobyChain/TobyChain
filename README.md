@@ -63,7 +63,7 @@
 <td width="25.0%">
 
 <h3 align="center"><a href="https://github.com/TobyChain/ultra-skills">ultra-skills</a></h3>
-<p align="center">Ultra 系列 Agent Skills：learn-ultra（深度解析报告）+ figure-ultra（统一图表生成）</p>
+<p align="center">Ultra 系列 Agent Skills</p>
 <p align="center">
   <a href="https://github.com/TobyChain/ultra-skills/stargazers"><img src="https://img.shields.io/github/stars/TobyChain/ultra-skills?style=social" alt="stars" /></a>
   <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square" alt="Python" />

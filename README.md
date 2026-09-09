@@ -52,21 +52,20 @@
 </td>
 <td width="25.0%">
 
-<h3 align="center"><a href="https://github.com/TobyChain/bellone">bellone</a></h3>
-<p align="center">壹铃，AI时代的健康管家</p>
-<p align="center">
-  <a href="https://github.com/TobyChain/bellone/stargazers"><img src="https://img.shields.io/github/stars/TobyChain/bellone?style=social" alt="stars" /></a>
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square" alt="TypeScript" />
-</p>
-
-</td>
-<td width="25.0%">
-
 <h3 align="center"><a href="https://github.com/TobyChain/ultra-skills">ultra-skills</a></h3>
 <p align="center">Ultra 系列 Agent Skills</p>
 <p align="center">
   <a href="https://github.com/TobyChain/ultra-skills/stargazers"><img src="https://img.shields.io/github/stars/TobyChain/ultra-skills?style=social" alt="stars" /></a>
   <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square" alt="Python" />
+</p>
+
+</td>
+<td width="25.0%">
+
+<h3 align="center"><a href="https://github.com/TobyChain/rinq">rinq</a></h3>
+<p align="center">
+  <a href="https://github.com/TobyChain/rinq/stargazers"><img src="https://img.shields.io/github/stars/TobyChain/rinq?style=social" alt="stars" /></a>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square" alt="Swift" />
 </p>
 
 </td>

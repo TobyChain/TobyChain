@@ -53,7 +53,7 @@
 <td width="25.0%">
 
 <h3 align="center"><a href="https://github.com/TobyChain/skill-net">skill-net</a></h3>
-<p align="center">Ultra 系列 Agent Skills</p>
+<p align="center">skill-net</p>
 <p align="center">
   <a href="https://github.com/TobyChain/skill-net/stargazers"><img src="https://img.shields.io/github/stars/TobyChain/skill-net?style=social" alt="stars" /></a>
   <img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square" alt="HTML" />

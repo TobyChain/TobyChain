@@ -65,7 +65,7 @@
 <h3 align="center"><a href="https://github.com/TobyChain/rinq">rinq</a></h3>
 <p align="center">
   <a href="https://github.com/TobyChain/rinq/stargazers"><img src="https://img.shields.io/github/stars/TobyChain/rinq?style=social" alt="stars" /></a>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square" alt="Swift" />
+  <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square" alt="Python" />
 </p>
 
 </td>
